@@ -66,9 +66,7 @@ body {
   margin: 0;
   list-style: none;
 }
-.menu {
-  background-color: #ffffff;
-}
+
 .nav-link {
   display: block;
   padding: 10px;
@@ -159,9 +157,6 @@ body {
 }
 
 /* Our Directions */
-.page-dir {
-  color: #ffffff;
-}
 
 .directions {
   background-color: #ffffff;
@@ -190,9 +185,7 @@ body {
 }
 
 /* Our Team */
-.page-team {
-  background-color: #f4f4fd;
-}
+
 .team {
   background-color: #f4f4fd;
 }
@@ -230,9 +223,7 @@ body {
 }
 
 /* Our Portfolio */
-.page-prtf {
-  background-color: #ffffff;
-}
+
 .portfolio {
   background-color: #ffffff;
 }
