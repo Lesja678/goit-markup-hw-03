@@ -27,7 +27,6 @@ body {
 .wrapper {
   width: 1440px;
   height: 3300px;
-  display: block;
 }
 /* Header */
 .page-header {
@@ -134,6 +133,9 @@ body {
 .hero {
   background-color: #2e2f42;
 }
+.page-name {
+  padding: 0;
+}
 .hero-name {
   font-weight: 700;
   font-size: 56px;
@@ -157,6 +159,9 @@ body {
 }
 
 /* Our Directions */
+.page-dir {
+  color: #ffffff;
+}
 
 .directions {
   background-color: #ffffff;
@@ -185,7 +190,9 @@ body {
 }
 
 /* Our Team */
-
+.page-team {
+  background-color: #f4f4fd;
+}
 .team {
   background-color: #f4f4fd;
 }
@@ -223,7 +230,9 @@ body {
 }
 
 /* Our Portfolio */
-
+.page-prtf {
+  background-color: #ffffff;
+}
 .portfolio {
   background-color: #ffffff;
 }
@@ -259,6 +268,9 @@ body {
   color: #434455;
 }
 /* Footer */
+.page-footer {
+  background-color: #2e2f42;
+}
 .footer {
   background-color: #2e2f42;
 }
