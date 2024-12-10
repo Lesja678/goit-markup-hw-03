@@ -172,7 +172,7 @@ img {
 .directions-item {
   flex-basis: calc((100% - 72px) / 4);
 }
-.directions-itemname {
+.dir-item-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
